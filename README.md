@@ -1,5 +1,8 @@
 ## Assignment 3 - Reverse TLS Proxy
 
+> [!CAUTION]
+> HTTPS Server would have to be configured (I used apache) and you would have to configure cgi-bin thing for uploading.
+
 ### Description
 In this assignment we had to implement a TLS reverse proxy for a server using OpenSSL and PAM libraries.
 
